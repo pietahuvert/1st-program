@@ -1,0 +1,60 @@
+\\krywan\redirecteduserfolders\hpieta\documents\visual studio 2015\Projects\programik\programik\bin\Debug\programik.exe.config
+\\krywan\redirecteduserfolders\hpieta\documents\visual studio 2015\Projects\programik\programik\bin\Debug\programik.exe
+\\krywan\redirecteduserfolders\hpieta\documents\visual studio 2015\Projects\programik\programik\bin\Debug\programik.pdb
+\\krywan\redirecteduserfolders\hpieta\documents\visual studio 2015\Projects\programik\programik\obj\Debug\programik.csprojResolveAssemblyReference.cache
+\\krywan\redirecteduserfolders\hpieta\documents\visual studio 2015\Projects\programik\programik\obj\Debug\programik.Form1.resources
+\\krywan\redirecteduserfolders\hpieta\documents\visual studio 2015\Projects\programik\programik\obj\Debug\programik.Properties.Resources.resources
+\\krywan\redirecteduserfolders\hpieta\documents\visual studio 2015\Projects\programik\programik\obj\Debug\programik.csproj.GenerateResource.Cache
+\\krywan\redirecteduserfolders\hpieta\documents\visual studio 2015\Projects\programik\programik\obj\Debug\programik.exe
+\\krywan\redirecteduserfolders\hpieta\documents\visual studio 2015\Projects\programik\programik\obj\Debug\programik.pdb
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.exe.config
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.exe
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.pdb
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csprojResolveAssemblyReference.cache
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.Form1.resources
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.Properties.Resources.resources
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csproj.GenerateResource.Cache
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csproj.CoreCompileInputs.cache
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.exe
+C:\Users\Hubcio\Desktop\studia\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.pdb
+C:\Users\Hubert\Desktop\studia\wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.exe.config
+C:\Users\Hubert\Desktop\studia\wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.exe
+C:\Users\Hubert\Desktop\studia\wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.pdb
+C:\Users\Hubert\Desktop\studia\wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.exe
+C:\Users\Hubert\Desktop\studia\wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.pdb
+C:\Users\Hubert\Desktop\studia\wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\studia\wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.Form1.resources
+C:\Users\Hubert\Desktop\studia\wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.Properties.Resources.resources
+C:\Users\Hubert\Desktop\studia\wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csproj.GenerateResource.Cache
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.exe.config
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.exe
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.pdb
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csprojResolveAssemblyReference.cache
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.Form1.resources
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.Properties.Resources.resources
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csproj.GenerateResource.Cache
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csproj.CoreCompileInputs.cache
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.exe
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.pdb
+C:\Users\Hubert\Desktop\studia\wieloskalowe\programik nr 1\lab2\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.exe.config
+C:\Users\Hubert\Desktop\studia\wieloskalowe\programik nr 1\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.exe
+C:\Users\Hubert\Desktop\studia\wieloskalowe\programik nr 1\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.pdb
+C:\Users\Hubert\Desktop\studia\wieloskalowe\programik nr 1\lab2\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.exe
+C:\Users\Hubert\Desktop\studia\wieloskalowe\programik nr 1\lab2\modelowanie wieloskalowe\lab1\programik\programik\bin\Debug\programik.pdb
+C:\Users\Hubert\Desktop\studia\wieloskalowe\programik nr 1\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\studia\wieloskalowe\programik nr 1\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.Form1.resources
+C:\Users\Hubert\Desktop\studia\wieloskalowe\programik nr 1\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.Properties.Resources.resources
+C:\Users\Hubert\Desktop\studia\wieloskalowe\programik nr 1\lab2\modelowanie wieloskalowe\lab1\programik\programik\obj\Debug\programik.csproj.GenerateResource.Cache
+C:\Users\Hubcio\Desktop\programik\programik\bin\Debug\programik.exe.config
+C:\Users\Hubcio\Desktop\programik\programik\bin\Debug\programik.exe
+C:\Users\Hubcio\Desktop\programik\programik\bin\Debug\programik.pdb
+C:\Users\Hubcio\Desktop\programik\programik\obj\Debug\programik.csprojResolveAssemblyReference.cache
+C:\Users\Hubcio\Desktop\programik\programik\obj\Debug\programik.Form1.resources
+C:\Users\Hubcio\Desktop\programik\programik\obj\Debug\programik.Properties.Resources.resources
+C:\Users\Hubcio\Desktop\programik\programik\obj\Debug\programik.csproj.GenerateResource.Cache
+C:\Users\Hubcio\Desktop\programik\programik\obj\Debug\programik.csproj.CoreCompileInputs.cache
+C:\Users\Hubcio\Desktop\programik\programik\obj\Debug\programik.exe
+C:\Users\Hubcio\Desktop\programik\programik\obj\Debug\programik.pdb
+C:\Users\Hubert\Desktop\studia\wieloskalowe\FINALNE SPRAWOZDANIA\1st program - Cellular Automata\programik\programik\bin\Debug\programik.exe.config
+C:\Users\Hubert\Desktop\studia\wieloskalowe\FINALNE SPRAWOZDANIA\1st program - Cellular Automata\programik\programik\obj\Debug\programik.exe
+C:\Users\Hubert\Desktop\studia\wieloskalowe\FINALNE SPRAWOZDANIA\1st program - Cellular Automata\programik\programik\obj\Debug\programik.pdb
